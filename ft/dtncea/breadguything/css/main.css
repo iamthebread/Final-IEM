@@ -1,0 +1,45 @@
+body {
+    background-color: #181818;
+}
+
+div.topnav {
+    background-color: #181818;
+    border-radius: 5px;
+    display: flex;
+}
+
+.topnav button {
+    background-color: #363636;
+    border-style: solid;
+    border-color: #181818;
+    color: white;
+    font-size: 30px;
+    margin: 0 auto;
+    width: 33%;
+    border-radius: 10px;
+
+}
+
+.topnav button:hover {
+    background-color: #bdbdbd; 
+    border-style: solid;
+    border-color: #bdbdbd;
+    color: black;
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+.topnav button:focus {
+    background-color: #000000; 
+    border-style: solid;
+    border-color: #ffffff;
+    color: rgb(92, 176, 255);
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+img.bread {
+    border-radius: 5px;
+    border-width: 3px;
+    border-color: #181818;
+}

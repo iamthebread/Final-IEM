@@ -1,0 +1,115 @@
+body {
+    background-color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+div.topnav {
+    border-top-style: solid;
+    border-top-width: 2px;
+    border-top-color: #d36310;
+    background-color: #1a2032;
+    height: 125px;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: #d36310;
+}
+
+img.logo {
+    float: right;
+    margin-top: 12px;
+    margin-right: 27.5%;
+}
+
+.topnav {
+	bottom: 0;
+	left: 0;
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 100%;
+}
+
+div.selections {
+    float: left;
+    margin-top: 25px;
+    margin-left: 27%;
+    border-top-style: solid;
+    border-top-width: 2px;
+    border-top-color: #d36310;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: #d36310;
+    width: 650px;
+}
+
+button.button {
+    font-size: 15px;
+    height: 37px;
+    background-color: #1a2032;
+    border-color: #1a2032;
+    color: #ffffff;
+    border-style: solid;
+    font-family: 'Raleway';
+    width: 13%;
+    font-weight: bold;
+}
+
+button.button1 {
+    font-size: 15px;
+    height: 37px;
+    background-color: #1a2032;
+    border-color: #1a2032;
+    color: #ffffff;
+    border-style: solid;
+    font-family: 'Raleway';
+    width: 13%; 
+    margin-left: 2%;
+    font-weight: bold;
+}
+
+button.button1:hover {
+    font-size: 15px;
+    height: 37px;   
+    background-color: #1a2032;
+    border-color: #1a2032;
+    color: #383838;
+    border-style: solid;
+    font-family: 'Raleway';
+    margin-left: 17%;   
+}
+
+button.button:hover {
+    font-size: 15px;
+    height: 37px;
+    background-color: #1a2032;
+    border-color: #1a2032;
+    color: #383838;
+    border-style: solid;
+    font-family: 'Raleway'; 
+}
+
+h1 {
+    color: #d36310;
+    font-size: 50px;
+    text-align: center;
+}
+
+div.wrapper {
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+}
+
+p1 {
+    color: #1a2032;
+}
+
+img.cloak {
+    margin-left: 27%;
+    border-color: #d36310;
+    border-style: solid;
+}
+
+img.clubothy {
+    margin-left: 33%;
+}
